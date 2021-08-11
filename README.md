@@ -4,7 +4,7 @@
   
 
  
-# Introduce 👐🏻
+# 소개 👐🏻
 
 반갑습니다! 백엔드 개발자 이혜빈입니다.
   
@@ -15,7 +15,7 @@
 
  
   
-## 🛠 Stack 
+## 🛠 기술스택
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
